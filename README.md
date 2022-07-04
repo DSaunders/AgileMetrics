@@ -94,6 +94,6 @@ Add an appsettings.json to the root of the web project, with a collection of bui
 
 This is a work in progress, the next items to work on are:
 
-- Ability to filter build definitions by branch. Currently only builds to `refs/heads/master` are measured.
-- Dynamically choose a time period. Currently the dashboard is fixed to show the last 6 weeks)
-- Improve the API call code. Currently a single API call is made on load, and cached for the duration. In this time, the UI makes multiple calls to get the value from this cache. This could be improved.
+- Ability to filter build definitions by branch. Currently only builds to `refs/heads/master` are measured
+- Dynamically choose a time period. Currently the dashboard is fixed to show the last 6 weeks
+- Improve the API call code. Currently a single API call is made on load, and cached for the duration. In this time, the UI makes multiple calls to get the value from this cache. This could be improved
