@@ -26,7 +26,7 @@ Displays the total number of passing and failing builds for the period:
 
 ### Build Time
 
-Displays the total time to produce a worting build (the time your pipeline takes to execute, from start to finish):
+Displays the total time to produce a working build (the time your pipeline takes to execute, from start to finish):
 
 ![image](https://user-images.githubusercontent.com/4059030/177157766-fe7d6d53-077b-4206-a599-ee96a73709e0.png)
 
