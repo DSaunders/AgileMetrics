@@ -42,7 +42,7 @@ Shows the number of working hours taken to fix a broken build.
 
 ![image](https://user-images.githubusercontent.com/4059030/177158379-917f3546-00a9-4a25-8525-c63690a14b5f.png)
 
-This chart will also show the standard deviation of the 'fix time' (not shown in the example above).
+This chart will also show the standard deviation of the 'fix time' in a light red colour (not shown in the example above).
 
 Note: working hours are assumed to be 9am-5pm Monday-Friday. This will be configurable later.
 
