@@ -48,7 +48,7 @@ Note: working hours are assumed to be 9am-5pm Monday-Friday. This will be config
 
 ### 'Blocked Time'
 
-This is the total amount of time that the build was failing for in the period.
+This is the total amount of time that the build was in failure for during the period.
 
 If a build is in failure, no further production deployments can occur until it is fixed. That's what we're measuring here:
 
